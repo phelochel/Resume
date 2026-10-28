@@ -17,8 +17,8 @@ I have worked as a social media manager and have been on the marketing team at a
 ## Projects
 
 I have worked on many things! Here are a few:
-
-> <img width="2048" height="1364" alt="SIX_C44E8408-2A28-4C0D-9D26-93A6AC6AAF3E" src="https://github.com/user-attachments/assets/76235e95-34b7-47d7-9e54-5f81caa61003" />
+<img width="3300" height="2550" alt="Logos- Branding" src="https://github.com/user-attachments/assets/ff811c90-4f47-4a6a-a6ae-e9a4ff7e5f64" />
+<img width="3300" height="2551" alt="Miscellaneous" src="https://github.com/user-attachments/assets/df89b686-54d5-4507-87fc-9b1e9516f53a" />
 
 ## Contact Me
 
