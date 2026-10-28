@@ -22,4 +22,7 @@ I have worked on many things! Here are a few:
 
 ## Contact Me
 
-I'm as _elusive as the wind._
+I'm as _elusive as the wind._ But you can find me here:
+
+- [GitHub](https://github.com/phelochel)
+- [Contact](https://humber.ca/)
